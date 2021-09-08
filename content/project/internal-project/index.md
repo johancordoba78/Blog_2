@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: Análisis de vulnerabilida de Coris & Tablón.
 tags:
 - Deep Learning
 title: Internal Project
@@ -20,12 +20,13 @@ url_slides: ""
 url_video: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+**Resumen**
+La investigación consiste en el análisis de vulnerabilidad en las comunidades de Coris de Cartago y Tablón de El Guarco ante el impacto de los desastres. Estas comunidades se sitúan dentro de la microcuenca del río Purires en la provincia de Cartago, Costa Rica. La microcuenca del río Purires, se ubica en el extremo oriental de la región central de Costa Rica; abarca 76, 2 km² y forma parte de la sección alta de la cuenca del río Reventazón.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+La metodología utilizada se enmarca dentro del paradigma de la Investigación Cualitativa de Acción Participativa desde el enfoque de la educación no formal. El objetivo general de la investigación, se centró en analizar las amenazas y la vulnerabilidad a las que están expuestas las comunidades de Coris y Tablón. Para ello fue necesario desarrollar un plan de acción participativo comunitario, que buscó implementar las recomendaciones para mejorar la capacidad de respuesta de las comunidades ante el impacto de los desastres.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Los resultados demostraron que en Coris se identificaron 18 amenazas, clasificadas en antrópicas, relacionadas con la contaminación ambiental, delincuencia y el vandalismo; socionaturales como deslizamientos y desbordamiento de ríos; y naturales, asociadas a sismos por fallamientos geológicos locales que afectan la microcuenca. En Tablón existen un total de 18 amenazas, clasificadas por su origen en socionaturales, de las cuales nueve corresponden a deslizamientos, seis a desbordamientos de ríos y una por erosión e inadecuadas prácticas de cultivo; una antrópica relacionada con el consumo de drogas y alcohol; y una natural asociada a sismos.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Los escenarios de riesgo seleccionados en Tablón y Coris se agruparon por su nivel de aceptabilidad en inadmisibles e inaceptables, aceptables y tolerables con el fin de disminuir su condición mediante recomendaciones desde la perspectiva de la gestión del riesgo para la prevención de los desastres.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Revista Ciencias Espaciales, Volumen 8, Número 1 Primavera, 2015; 231-259
