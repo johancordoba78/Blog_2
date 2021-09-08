@@ -26,25 +26,25 @@ experience:
     company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: San José
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Geografía
+        * SIG - Teledetección
+        * Gestión del riesgo de desastres
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Geógrafo consultor
+    company: PNUD - REDD - FONAFIFO - IMN
     company_url: ''
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    description: Monitoreo de bosques
 design:
   columns: '2'
+
 ---
